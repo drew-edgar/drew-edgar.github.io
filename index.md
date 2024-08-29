@@ -1,17 +1,19 @@
 ---
-title: The Monospace Web
-subtitle: A minimalist design exploration
-author: Oskar Wickström
-author-url: "https://wickstrom.tech"
+title: Drew Edgar
+subtitle: Human-Computer Interaction Researcher
+# author: Oskar Wickström
+# author-url: "https://wickstrom.tech"
 date: 2024-08-26
 lang: en
 toc-title: Contents
-version: v0.1.1
+# version: v0.1.1
 ---
 
 ## Introduction
 
-Monospace fonts are dear to many of us. 
+***WIP.***
+
+<!-- Monospace fonts are dear to many of us. 
 Some find them more readable, consistent, and beautiful, than their proportional alternatives.
 Maybe we're just brainwashed from spending years in terminals?
 Or are we hopelessly nostalgic?
@@ -27,9 +29,9 @@ It's semantic HTML, rendered as if we were back in the 70s.
 All right, but is this even a good idea?
 It's a technical and creative challenge and I like the aestethic.
 If you'd like to use it, feel free to fork or copy the bits you need, respecting the license.
-I might update it over time with improvements and support for more standard elements.
+I might update it over time with improvements and support for more standard elements. -->
 
-## The Basics
+<!-- ## The Basics
 
 This document uses a few extra classes here and there, but mostly it's just markup.
 This, for instance, is a regular paragraph.
@@ -223,4 +225,4 @@ If you like it or even decide to use it, please [let me know](https://x.com/owic
 
 The full source code is here: [github.com/owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web)
 
-Finally, a massive shout-out to [U.S. Graphics Company](https://x.com/usgraphics) for all the inspiration.
+Finally, a massive shout-out to [U.S. Graphics Company](https://x.com/usgraphics) for all the inspiration. -->
